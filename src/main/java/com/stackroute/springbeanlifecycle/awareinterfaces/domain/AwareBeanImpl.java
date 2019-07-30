@@ -1,4 +1,4 @@
-package guru.springframework.springbeanlifecycle.awareinterfaces.domain;
+package com.stackroute.springbeanlifecycle.awareinterfaces.domain;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.BeanFactory;

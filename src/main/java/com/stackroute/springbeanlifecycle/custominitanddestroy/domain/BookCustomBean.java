@@ -1,4 +1,4 @@
-package guru.springframework.springbeanlifecycle.custominitanddestroy.domain;
+package com.stackroute.springbeanlifecycle.custominitanddestroy.domain;
 
 public class BookCustomBean {
     private String bookName;

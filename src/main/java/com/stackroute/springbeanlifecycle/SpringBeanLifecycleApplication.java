@@ -1,9 +1,6 @@
-package guru.springframework.springbeanlifecycle;
+package com.stackroute.springbeanlifecycle;
 
-import guru.springframework.springbeanlifecycle.awareinterfaces.domain.AwareBeanImpl;
-import guru.springframework.springbeanlifecycle.beanpostprocessor.domain.BookBean;
-import guru.springframework.springbeanlifecycle.callbackinterfaces.domain.Book;
-import guru.springframework.springbeanlifecycle.custominitanddestroy.domain.BookCustomBean;
+import com.stackroute.springbeanlifecycle.callbackinterfaces.domain.Book;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

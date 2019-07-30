@@ -1,4 +1,4 @@
-package guru.springframework.springbeanlifecycle;
+package com.stackroute.springbeanlifecycle;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package guru.springframework.springbeanlifecycle.beanpostprocessor.domain;
+package com.stackroute.springbeanlifecycle.beanpostprocessor.domain;
 
 public class BookBean {
     private String bookName;

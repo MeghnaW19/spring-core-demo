@@ -1,4 +1,4 @@
-package guru.springframework.springbeanlifecycle.callbackinterfaces.domain;
+package com.stackroute.springbeanlifecycle.callbackinterfaces.domain;
 
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;

@@ -1,6 +1,5 @@
-package guru.springframework.springbeanlifecycle.beanpostprocessor.domain;
+package com.stackroute.springbeanlifecycle.beanpostprocessor.domain;
 
-import guru.springframework.springbeanlifecycle.beanpostprocessor.domain.BookBean;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 
